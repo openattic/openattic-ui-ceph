@@ -1,0 +1,14 @@
+{
+  "name": "openattic-ui-ceph",
+  "description": "openATTICs graphical user interface - ceph module",
+  "version": "3.0.0",
+  "license": "GPL-2.0",
+  "repository": "github:openattic/openattic-ui-ceph",
+  "scripts": {
+  },
+  "dependencies": {
+    "openattic-ui-core": "3.0.0"
+  },
+  "devDependencies": {
+  }
+}
